@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+}
+.line {
+    height:6px;
+    width:70px;
+    background-color:chocolate;
+    margin: 8px auto;
+}
+#Apps {
+    text-align:center;
+    background-color:pink;
+}
+#games {
+    text-align:center;
+    background-color:skyblue;
+}
